@@ -6,6 +6,7 @@ USB Auto WiFi Password Grabber
 Simplify the process of retrieving WiFi passwords from Windows systems with the USB Auto WiFi Password Grabber. This open-source project streamlines the extraction of stored WiFi credentials, offering a user-friendly and efficient solution.
 
 Usage Instructions:
+Works only on windows 8.1 and 10
 
 Format Your USB: Begin by formatting your USB drive.
 
@@ -24,3 +25,4 @@ For Educational Purposes Only: This tool is intended solely for educational purp
 Disclaimer of Responsibility: The creator is not responsible for any illegal activities resulting from the use of this tool. Users are urged to adhere to ethical standards and legal regulations.
 
 Note: The USB Auto WiFi Password Grabber project aims to educate users about security vulnerabilities. Please use it responsibly, respecting privacy and legal considerations. Contributions to the project are welcome from the community.
+
