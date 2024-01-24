@@ -9,7 +9,9 @@ Usage Instructions:
 
 Format Your USB: Begin by formatting your USB drive.
 
-Copy Downloaded Files: Copy all downloaded files onto your USB drive as they are.
+Copy Downloaded Files: Copy all downloaded files onto your USB drive as they are and make sure that all of your files should be not be inside a folder after extraction
+
+![example](https://github.com/Ali172981/USB-Auto-WiFi-Password-Grabber/assets/134919276/a8dd5fdc-08b9-4edc-9e61-00267a35eda8)
 
 Configuration Options:
 
