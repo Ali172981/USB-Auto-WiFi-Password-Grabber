@@ -7,7 +7,14 @@ Simplify the process of retrieving WiFi passwords from Windows systems with the 
 
 Usage Instructions:
 Works only on windows 8.1 and 10
+However, there are a few things you can do to ensure that the script works correctly on Windows 11:
+Make sure that you are running the script with administrative privileges. This is because the script requires access to system-level settings and configurations.
+Check that the NETSH command is available on your Windows 11 machine. The NETSH command is a built-in Windows tool that allows you to configure various network settings. If the NETSH command is not available, you may need to install it or enable it in your Windows 11 installation.
+Ensure that the script is saved with a .bat or .cmd file extension. This will allow Windows to recognize the script as a batch file and execute it correctly.
+Make sure that the script is being executed from a command prompt or a PowerShell window. The script may not work correctly if you are trying to run it by double-clicking on the file in File Explorer.
+If you follow these steps, the script should work correctly on Windows 11 and extract the Wi-Fi network profiles and passwords as intended
 
+STEPS:
 Format Your USB: Begin by formatting your USB drive.
 
 Copy Downloaded Files: Copy all downloaded files onto your USB drive as they are and make sure that all of your files should be not be inside a folder after extraction
